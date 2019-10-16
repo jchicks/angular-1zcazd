@@ -18,6 +18,24 @@ const DATA = [{
       mtime: "2019-08-28T18:28:10.000Z",
       size: 791
     }
+  },{
+    name: "tets-11",
+    type: "folder",
+    children: {
+      "graphical-report-configuration-1.tgc": {
+        name: "graphical-report-configuration.tgc",
+        type: "file",
+        metadata: {
+          mtime: "2019-08-29T18:28:10.000Z",
+          size: 791
+        }
+      }
+    },
+    iconOverride: "tgc",
+    metadata: {
+      mtime: "2019-08-29T18:28:10.000Z",
+      size: 791
+    }
   }];
 
 /**

@@ -21,7 +21,8 @@
     "@angular/platform-browser": "8.2.10",
     "angular-in-memory-web-api": "0.5.4",
     "@angular/material-moment-adapter": "8.2.1",
-    "@angular/platform-browser-dynamic": "8.2.10"
+    "@angular/platform-browser-dynamic": "8.2.10",
+    "@angular/flex-layout": "^8.0.0-beta.27"
   },
   "scripts": {
     "ng": "ng",
